@@ -25,7 +25,8 @@ To play the games in this repository, follow these steps:
     ```
 
 2. **Download and Install Flash Player**:
-    - [Flash Player](#).
+    - [Flash Player](https://github.com/AmmarSAA/flash-games-directory/blob/main/flashplayer_32_sa.exe).
+    - [Flash Player](https://github.com/AmmarSAA/flash-games-directory/blob/main/flashplayer_32_sa_debug.exe)
 
 3. **Open the Games**:
     - Open any `.swf` file in the directory with Flash Player.
@@ -61,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for visiting our Flash Games directory. We hope you enjoy these nostalgic games as much as we do!
+Thank you for visiting our Flash Games directory. If you loved it, Don't forget to star 🌟 and contribute to it by forking!
